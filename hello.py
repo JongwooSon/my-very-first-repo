@@ -1,3 +1,3 @@
 # "hello world".
-
-print('hello world')
+for _ in range(5):
+    print('hello world')
